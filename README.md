@@ -28,7 +28,7 @@ This project simulates a full enterprise network infrastructure using Cisco Pack
 |------|-------------|  
 | \`Area1.pkt\` | Cisco Packet Tracer file for Area 1 |  
 | \`Area2.pkt\` | Cisco Packet Tracer file for Area 2 |  
-| \`full\_network.pkt\` | Complete integrated topology |  
+| \`EnterpriseNetwork.pkt\` | Complete integrated topology |  
 | \`topology.png\` | Network topology diagram |  
 | \`enterprise network commands.pdf\`|CLI Commands for devices |
 
