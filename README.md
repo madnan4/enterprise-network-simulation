@@ -32,14 +32,14 @@ This project simulates a full enterprise network infrastructure using Cisco Pack
 | topology.png | Network topology diagram |  
 | enterprise network commands.pdf|CLI Commands for devices |
 
-##⚙️ Technologies Used
+## ⚙️ Technologies Used
 
-\- **Cisco Packet Tracer**
-\- **OSPF (Multi-Area)**
-\- **VLANs & Inter-VLAN Routing**
-\- **NAT Overload**
-\- **DHCP**
-\- **Access Control Lists (ACLs)**
+- **Cisco Packet Tracer**  
+- **OSPF (Multi-Area)**  
+- **VLANs & Inter-VLAN Routing**  
+- **NAT Overload**  
+- **DHCP**  
+- **Access Control Lists (ACLs)**
 
 ## 🚀 How to Use
 
