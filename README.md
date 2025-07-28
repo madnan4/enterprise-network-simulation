@@ -1,4 +1,4 @@
-\# Enterprise Network Simulation (Cisco Packet Tracer)
+# Enterprise Network Simulation (Cisco Packet Tracer)
 
 This project simulates a full enterprise network infrastructure using Cisco Packet Tracer, featuring:  
 \- VLANs  
@@ -9,7 +9,7 @@ This project simulates a full enterprise network infrastructure using Cisco Pack
 \- Multi-area OSPF  
 \- Basic ISP simulation
 
-\#\# 🧱 Network Topology
+## 🧱 Network Topology
 
 \!\[Network Topology\](topology.png)
 
@@ -22,7 +22,7 @@ This project simulates a full enterprise network infrastructure using Cisco Pack
 \- NAT is configured at edge routers for internet access  
 \- ISP router connects both branches via OSPF Area 0
 
-\#\# 📁 Files
+ **📁 Files**
 
 | File | Description |  
 |------|-------------|  
@@ -32,7 +32,7 @@ This project simulates a full enterprise network infrastructure using Cisco Pack
 | \`topology.png\` | Network topology diagram |  
 | \`enterprise network commands.pdf\`|CLI Commands for devices |
 
-\#\# ⚙️ Technologies Used
+ **⚙️ Technologies Used**
 
 \- \*\*Cisco Packet Tracer\*\*  
 \- \*\*OSPF (Multi-Area)\*\*  
