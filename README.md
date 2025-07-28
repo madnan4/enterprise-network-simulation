@@ -22,7 +22,7 @@ This project simulates a full enterprise network infrastructure using Cisco Pack
 \- NAT is configured at edge routers for internet access  
 \- ISP router connects both branches via OSPF Area 0
 
-##📁 Files
+## 📁 Files
 
 | File | Description |  
 |------|-------------|  
