@@ -22,40 +22,40 @@ This project simulates a full enterprise network infrastructure using Cisco Pack
 \- NAT is configured at edge routers for internet access  
 \- ISP router connects both branches via OSPF Area 0
 
- **📁 Files**
+##📁 Files
 
 | File | Description |  
 |------|-------------|  
-| \`Area1.pkt\` | Cisco Packet Tracer file for Area 1 |  
-| \`Area2.pkt\` | Cisco Packet Tracer file for Area 2 |  
-| \`EnterpriseNetwork.pkt\` | Complete integrated topology |  
-| \`topology.png\` | Network topology diagram |  
-| \`enterprise network commands.pdf\`|CLI Commands for devices |
+| Area1.pkt | Cisco Packet Tracer file for Area 1 |  
+| Area2.pkt | Cisco Packet Tracer file for Area 2 |  
+| EnterpriseNetwork.pkt | Complete integrated topology |  
+| topology.png | Network topology diagram |  
+| enterprise network commands.pdf|CLI Commands for devices |
 
- **⚙️ Technologies Used**
+##⚙️ Technologies Used
 
-\- \*\*Cisco Packet Tracer\*\*  
-\- \*\*OSPF (Multi-Area)\*\*  
-\- \*\*VLANs & Inter-VLAN Routing\*\*  
-\- \*\*NAT Overload\*\*  
-\- \*\*DHCP\*\*  
-\- \*\*Access Control Lists (ACLs)\*\*
+\- **Cisco Packet Tracer**
+\- **OSPF (Multi-Area)**
+\- **VLANs & Inter-VLAN Routing**
+\- **NAT Overload**
+\- **DHCP**
+\- **Access Control Lists (ACLs)**
 
-\#\# 🚀 How to Use
+## 🚀 How to Use
 
 1\. Open \`.pkt\` files in Cisco Packet Tracer  
 2\. View the topology and device configurations  
 3\. Simulate ping, routing, DHCP, or NAT functionality  
 4\. Modify or expand with security features (e.g., ACLs, Port Security)
 
-\#\# 👨‍💻 Author
+## 👨‍💻 Author
 
 Adnan Mohammed Ali    
 📫 \[LinkedIn\](https://www.linkedin.com/in/adnan-ali-0312b8251)
 
 \---
 
-\#\# 📌 Note
+## 📌 Note
 
 This project is part of a self-directed CCNA lab to demonstrate proficiency in enterprise networking, subnetting with VLSM, routing protocols, and Layer 2/3 design.
 
