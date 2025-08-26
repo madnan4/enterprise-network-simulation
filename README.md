@@ -11,7 +11,7 @@ This project simulates a full enterprise network infrastructure using Cisco Pack
 
 ## 🧱 Network Topology
 
-\!\[Network Topology\](topology.png)
+\!\[Network Topology\](topology_diagram.png)
 
 \- \*\*Area 1 and Area 2\*\*: Each has 3 switches — 1 core switch and 2 access switches  
 \- Each PC is connected to access switches, grouped into:  
@@ -29,7 +29,7 @@ This project simulates a full enterprise network infrastructure using Cisco Pack
 | Area1.pkt | Cisco Packet Tracer file for Area 1 |  
 | Area2.pkt | Cisco Packet Tracer file for Area 2 |  
 | EnterpriseNetwork.pkt | Complete integrated topology |  
-| topology.png | Network topology diagram |  
+| topology_diagram.png | Network topology diagram |  
 | enterprise network commands.pdf|CLI Commands for devices |
 
 ## ⚙️ Technologies Used
