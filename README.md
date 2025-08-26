@@ -11,7 +11,7 @@ This project simulates a full enterprise network infrastructure using Cisco Pack
 
 ## 🧱 Network Topology
 
-\!\[Network Topology\](topology_diagram.png)
+\!\[Network Topology\]([topology_diagram.png](https://github.com/madnan4/enterprise-network-simulation/blob/main/topology_diagram.png))
 
 \- \*\*Area 1 and Area 2\*\*: Each has 3 switches — 1 core switch and 2 access switches  
 \- Each PC is connected to access switches, grouped into:  
